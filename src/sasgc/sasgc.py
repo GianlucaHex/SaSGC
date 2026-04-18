@@ -183,7 +183,7 @@ def main():
         description="Generate a git commit message from staged changes using Ollama."
     )
     parser.add_argument(
-        "--model", default="llama3.2", help="Ollama model to use (default: llama3.2)"
+        "--model", default="qwen3.5:4b", help="Ollama model to use (default: llama3.2)"
     )
     parser.add_argument(
         "--lang", default="en", help="Language for the commit message (default: en)"
