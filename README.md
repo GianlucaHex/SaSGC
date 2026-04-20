@@ -1,6 +1,6 @@
 # SaSGC
 
-Staged and Summarized Git Commit — a CLI tool that reads your staged changes
+Simple and Stupid Git Commit — a CLI tool that reads your staged changes
 and generates a conventional commit message using a local LLM via Ollama.
 No cloud, no API keys, everything runs on your machine.
 
